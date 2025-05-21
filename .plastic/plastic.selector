@@ -1,0 +1,4 @@
+repository "vitaverse/vitaverse@14568937080559@cloud"
+  path "/"
+    br "/main"
+    co "/main"
